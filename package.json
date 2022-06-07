@@ -13,6 +13,7 @@
   "author": "Pravin Kumar",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.18.1"
+    "express": "^4.18.1",
+    "mysql": "^2.18.1"
   }
 }
